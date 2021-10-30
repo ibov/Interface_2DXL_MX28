@@ -1,5 +1,5 @@
 /* This example is for controlling two dynamixel motors MX-28AT, using Protocol V1.0
- * User can send desired positions or velocoties to the motors via Serial Port of OpenCM board
+ * User can send desired positions or velocities to the motors via Serial Port of OpenCM board
  * The board will send feedback to the PC via Serial Port including: Q1,Q2,QP1,QP2
  * 
  * Author: N.D.Quan - 30/10/2021
